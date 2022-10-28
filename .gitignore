@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+test_sucio.ipynb
+carpeta1/fichero2.csv
